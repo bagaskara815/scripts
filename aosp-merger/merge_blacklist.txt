@@ -65,3 +65,12 @@ hardware/qcom-caf/sm8350/media
 vendor/qcom/opensource/audio-hal/st-hal
 vendor/qcom/opensource/display
 vendor/qcom/opensource/commonsys/display
+external/exfatprogs
+packages/apps/NitrogenSettings
+packages/apps/FaceUnlockService
+prebuilts/tools-lineage
+vendor/nitrogen
+vendor/qcom/opensource/commonsys-intf/bluetooth
+vendor/qcom/opensource/commonsys/bluetooth_ext
+vendor/qcom/opensource/commonsys/packages/apps/Bluetooth
+vendor/qcom/opensource/commonsys/system/bt

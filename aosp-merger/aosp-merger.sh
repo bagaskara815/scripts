@@ -292,14 +292,14 @@ fi
 . build/envsetup.sh
 
 # global vars / settings
-DEFAULTBRANCH="twelve" # default branch name
-DEFAULTREMOTE="yaap" # default remote name
+DEFAULTBRANCH="12" # default branch name
+DEFAULTREMOTE="nos" # default remote name
 WAIT_ON_CONFLICT=true # should the script halt to allow fixing conflicts
 
 TOP="${ANDROID_BUILD_TOP}"
 MERGEDREPOS="${TOP}/merged_repos.txt"
 SAVEDBRANCHES="${TOP}/saved_branches.list"
-MANIFEST="${TOP}/.repo/manifests/snippets/yaap.xml"
+MANIFEST="${TOP}/.repo/manifests/nos.xml"
 STAGINGBRANCH="staging/${DEFAULTBRANCH}-${NEWTAG}"
 
 # Build a list of forked repos
