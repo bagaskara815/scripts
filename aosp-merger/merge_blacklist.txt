@@ -74,3 +74,4 @@ vendor/qcom/opensource/commonsys-intf/bluetooth
 vendor/qcom/opensource/commonsys/bluetooth_ext
 vendor/qcom/opensource/commonsys/packages/apps/Bluetooth
 vendor/qcom/opensource/commonsys/system/bt
+packages/apps/ExactCalculator
